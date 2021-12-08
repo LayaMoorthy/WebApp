@@ -10,7 +10,7 @@ spec:
   source:
 #    repoURL: https://github.com/LayaMoorthy/WebApp.git
     targetRevision: HEAD
-    path: .
+    path: webapplication
     helm:
       parameters:
       - name: serviceType
